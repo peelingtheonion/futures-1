@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/7devs/futures/issues"
   },
-  "homepage": "https://github.com/7devs/futures#readme"
+  "homepage": "https://github.com/7devs/futures#readme",
+  "dependencies": {
+    "async": "^2.1.2",
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "express-xml-bodyparser": "^0.3.0",
+    "fs": "0.0.1-security",
+    "mongoose": "^4.6.4",
+    "path": "^0.12.7",
+    "request": "^2.75.0",
+    "xml": "^1.0.1"
+  }
 }
